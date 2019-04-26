@@ -5,6 +5,14 @@ height: 100%;
 align-content: center;
 }
 
-#startButton{
-  
+.containerButton{
+  padding-left: 35%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: 10%;
+
+}
+
+.scoreTracking{
+  display:none;
 }
